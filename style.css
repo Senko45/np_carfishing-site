@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "oswald";
+    src: url(./polices/Oswald-Regular.ttf);
+}
+@font-face {
+    font-family: "txt";
+    src: url(./polices/PlayfairDisplay-Regular.ttf);
+}
+
+
+body {
+    font-family: "txt";
+    font-size: 1.25rem;
+    list-style: "none";
+    padding: 20px;
+    li {
+        list-style: none;
+    }
+}
+
+
+h1 {
+    text-transform: uppercase;
+    font-size: 2.5rem;
+    font-family: "oswald";
+}
+
+main {
+    font-family: "oswald";
+    
+ }
+
+.image {
+    text-align: center;
+    
+    
+
+
+
+}
